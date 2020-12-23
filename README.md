@@ -1,21 +1,12 @@
-<h1 align="center">
-UI Clone #17 - Vercel (Homepage)
-</h1>
+UI_CLONE VERCEL 
 
-<p align="center"><a href="https://vercel.com">Vercel Homepage</a> UI clone for study purposes.</p>
-<p align="center">Click <a href="https://www.youtube.com/playlist?list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp">here</a> to the YouTube playlist.</p>
+## Utils
 
-<p align="center">
-  <a href="https://github.com/rocketseat-content/youtube-clone-vercel-homepage/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/rocketseat-content/youtube-clone-vercel-homepage?color=%236633cc&logoColor=%236633cc&style=flat" alt="Contributors">
-  </a>
-</p>
+CSS ( Sass ) + HTML
 
 <hr>
 
-## Participants
-
-[<img src="https://avatars3.githubusercontent.com/u/10366880?s=460&v=4" width="75px;"/>](https://github.com/guilhermerodz)
+## References
 
 [Guilherme Rodz](https://github.com/guilhermerodz)
 
@@ -30,3 +21,5 @@ UI Clone #17 - Vercel (Homepage)
 2. Install `Live Server` and `Live Sass Compiler` extension
 3. Right click `index.html` > `Open with Live Server`
 4. Access the **generated address** in your browser 🚀
+
+<img src="assets/vercel.png">
